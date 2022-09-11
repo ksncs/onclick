@@ -14,3 +14,7 @@ h1 {
 .table-item {
   color: #fff;
 }
+
+table {
+  border-color: #fff;
+}
