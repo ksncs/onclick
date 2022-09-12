@@ -7,6 +7,11 @@ h1 {
   font-size: 50px;
 }
 
+h2 {
+  color: white;
+  font-size: 35px;
+}
+
 .table-title {
   border: solid 2px #fff;
   color: #fff;
